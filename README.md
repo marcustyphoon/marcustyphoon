@@ -9,6 +9,8 @@ Hi! I'm Marcus. This is my to-do list. It seemed like a reasonable place to put 
 
 - [ ] ask about tweaks settings cleanup, and settings for non-working-on-new-dash features in general
 
+- [ ] ask about and/or publish cssmap tools
+
 - [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
 - [ ] make the show originals beta use dropdowns in settings
 
