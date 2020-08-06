@@ -14,6 +14,8 @@ Hi! I'm Marcus. This is my to-do list. It seemed like a reasonable place to put 
 - [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
 - [ ] make the show originals beta use dropdowns in settings
 
+- [ ] Potentially look at "shorten posts"
+
 - [ ] maybe make that markdeep conversion script
 
 <!--
