@@ -8,6 +8,8 @@ Anti-Capitalism
 
 - [x] test and undraft anti-capitalism changes
 
+- Once implemented, use xkit.interface.hide
+
 Show Originals
 
 - [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
@@ -16,11 +18,15 @@ Show Originals
 
 - [ ] fix broken interaction between no-recommended and show-originals
 
+- Once implemented, use xkit.interface.hide
+
 No Recommended
 
 - [ ] converge the no-recommended and my show-originals indicators
 - [ ] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 - [ ] use --post-padding for shrinking indicators
+
+- Once implemented, use xkit.interface.hide
 
 Hide "where were we"
 
