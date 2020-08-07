@@ -1,4 +1,4 @@
-Hi! I'm Marcus. This is my to-do list. It seemed like a reasonable place to put it.
+Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a reasonable place to put it.
 
 Tag Tracking+
 
