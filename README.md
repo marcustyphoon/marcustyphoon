@@ -2,7 +2,7 @@ Hi! I'm Marcus. This is my to-do list. It seemed like a reasonable place to put 
 
 - [x] make tag tracking+ svg not a background and color it
 
-- [ ] test and undraft anti-capitalism changes
+- [x] test and undraft anti-capitalism changes
 
 - [ ] converge the no-recommended and my show-originals indicators
 - [ ] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
