@@ -22,6 +22,8 @@ Show Originals
 
 No Recommended
 
+- [ ] implement full hide toggle
+
 - [ ] converge the no-recommended and my show-originals indicators
 - [ ] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 - [ ] use --post-padding for shrinking indicators
