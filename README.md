@@ -9,15 +9,6 @@ Anti-Capitalism
 - [x] test anti-capitalism changes
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 
-Show Originals
-
-- [ ] make the show originals beta use dropdowns in settings
-- [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
-- [ ] fix broken interaction between no-recommended and show-originals
-- [ ] add back the sidebar
-- [ ] add back the legacy code (possibly rebuilding the extension)
-- Once implemented, use xkit.interface.hide
-
 No Recommended
 
 - [x] implement full hide toggle
@@ -26,6 +17,15 @@ No Recommended
 - [x] use css from show originals to fix peepr
 - [x] PR it
 - [ ] undraft the PR with xkit.interface.hide when it comes out
+
+Show Originals
+
+- [ ] make the show originals beta use dropdowns in settings
+- [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
+- [ ] fix broken interaction between no-recommended and show-originals
+- [ ] add back the sidebar
+- [ ] add back the legacy code (possibly rebuilding the extension)
+- Once implemented, use xkit.interface.hide
 
 Hide "where were we"
 
