@@ -26,7 +26,7 @@ No Recommended
 - [x] converge the no-recommended and my show-originals indicators
 - [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 
-- [ ] fix broken interaction between no-recommended and show-originals
+- [ ] use css from show originals to fix peepr
 
 - [ ] PR it
 
