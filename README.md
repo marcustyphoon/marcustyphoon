@@ -7,33 +7,24 @@ Tag Tracking+
 Anti-Capitalism
 
 - [x] test and undraft anti-capitalism changes
-
 - Once implemented, use xkit.interface.hide
 
 Show Originals
 
 - [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
 - [ ] make the show originals beta use dropdowns in settings
-
 - [ ] fix broken interaction between no-recommended and show-originals
-
 - [ ] add back the sidebar
-
 - [ ] add back the legacy code
-
 - Once implemented, use xkit.interface.hide
 
 No Recommended
 
 - [x] implement full hide toggle
-
 - [x] converge the no-recommended and my show-originals indicators
 - [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
-
 - [x] use css from show originals to fix peepr
-
 - [x] PR it
-
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 
 Hide "where were we"
@@ -45,7 +36,6 @@ Other
 
 - [x] ask about tweaks settings cleanup, and settings for non-working-on-new-dash features in general
 - [x] ~~ask about and/or~~ publish cssmap tools *as a Gist*
-
 - [ ] potentially look at "shorten posts"
 
 Not XKit related
