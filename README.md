@@ -15,7 +15,7 @@ Show Originals
 - [ ] make the show originals beta use dropdowns in settings
 - [ ] fix broken interaction between no-recommended and show-originals
 - [ ] add back the sidebar
-- [ ] add back the legacy code
+- [ ] add back the legacy code (possibly rebuilding the extension)
 - Once implemented, use xkit.interface.hide
 
 No Recommended
