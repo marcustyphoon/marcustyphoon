@@ -14,7 +14,6 @@ Show Originals
 
 - [ ] maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad
 - [ ] make the show originals beta use dropdowns in settings
-- [ ] use --post-padding for shrinking indicators
 
 - [ ] fix broken interaction between no-recommended and show-originals
 
@@ -22,11 +21,14 @@ Show Originals
 
 No Recommended
 
-- [ ] implement full hide toggle
+- [x] implement full hide toggle
 
-- [ ] converge the no-recommended and my show-originals indicators
-- [ ] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
-- [ ] use --post-padding for shrinking indicators
+- [x] converge the no-recommended and my show-originals indicators
+- [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
+
+- [ ] fix broken interaction between no-recommended and show-originals
+
+- [ ] PR it
 
 - Once implemented, use xkit.interface.hide
 
