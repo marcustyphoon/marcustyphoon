@@ -17,6 +17,10 @@ Show Originals
 
 - [ ] fix broken interaction between no-recommended and show-originals
 
+- [ ] add back the sidebar
+
+- [ ] add back the legacy code
+
 - Once implemented, use xkit.interface.hide
 
 No Recommended
