@@ -26,11 +26,11 @@ No Recommended
 - [x] converge the no-recommended and my show-originals indicators
 - [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 
-- [ ] use css from show originals to fix peepr
+- [x] use css from show originals to fix peepr
 
-- [ ] PR it
+- [x] PR it
 
-- Once implemented, use xkit.interface.hide
+- [ ] undraft the PR with xkit.interface.hide when it comes out
 
 Hide "where were we"
 
