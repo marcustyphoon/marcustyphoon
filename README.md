@@ -6,6 +6,7 @@ Everything with a sidebar
 - [ ] wow that actually worked. okay, refine the css significantly
 - [ ] find out where the css actually goes
 - [ ] possibly refactor everything from hacky css to construct_react changes
+- [ ] check if the hyperlinks, yknow, actually do anything
 
 Tag Tracking+
 
