@@ -2,7 +2,7 @@ Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a rea
 
 Everything with a sidebar
 
-- [x] just for fun, try my hand at updating XKit.interface.sidebar, haha, this will go poorly
+- [x] just for fun, try my hand at updating XKit.interface.sidebar, ~~haha, this will go poorly~~
 - [ ] wow that actually worked. okay, refine the css significantly
 - [ ] find out where the css actually goes
 - [ ] possibly refactor everything from hacky css to construct_react changes
@@ -34,6 +34,7 @@ Show Originals
 - [ ] add back the legacy code (possibly rebuilding the extension)
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 - [ ] maybe look into radio buttons
+- [ ] maybe add excluded blogs
 
 Hide "where were we"
 
