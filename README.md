@@ -4,7 +4,7 @@ Everything with a sidebar
 
 - [x] just for fun, try my hand at updating XKit.interface.sidebar, ~~haha, this will go poorly~~
 - [ ] wow that actually worked. okay, refine the css significantly
-- [ ] find out where the css actually goes
+- [ ] ~~find out where the css actually goes~~ move it to xkit patches
 - [ ] possibly refactor everything from hacky css to construct_react changes
 - [ ] check if the hyperlinks, yknow, actually do anything
 
