@@ -1,5 +1,9 @@
 Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a reasonable place to put it.
 
+Everything with a sidebar
+
+- [ ] just for fun, try my hand at updating XKit.interface.sidebar, haha, this will go poorly 
+
 Tag Tracking+
 
 - [x] make tag tracking+ svg not a background and color it
