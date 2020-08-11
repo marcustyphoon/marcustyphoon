@@ -23,6 +23,7 @@ No Recommended
 - [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 - [x] use css from show originals to fix peepr
 - [x] PR it
+- [ ] update the hide-completely warning message
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 
 Show Originals
@@ -35,6 +36,7 @@ Show Originals
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 - [ ] maybe look into radio buttons
 - [ ] maybe add excluded blogs
+- [ ] implement whatever changes no recommended gets from the PR review
 
 Hide "where were we"
 
