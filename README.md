@@ -20,12 +20,13 @@ No Recommended
 
 Show Originals
 
-- [ ] make the show originals beta use dropdowns in settings
+- [x] ~~make the show originals beta use dropdowns in settings~~ nevermind probably; too hard to describe the options well
 - [x] ~~maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad~~ decided not to; probably too performance intensive
-- [ ] fix interaction between no-recommended and show-originals
-- [ ] add back the sidebar
+- [ ] fix interaction between no-recommended and show-originals (and blacklist and etc etc)
+- [ ] add back the sidebar button
 - [ ] add back the legacy code (possibly rebuilding the extension)
-- Once implemented, use xkit.interface.hide
+- [ ] undraft the PR with xkit.interface.hide when it comes out
+- [ ] maybe look into radio buttons
 
 Hide "where were we"
 
