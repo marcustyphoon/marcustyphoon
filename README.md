@@ -6,7 +6,7 @@ Everything with a sidebar
 - [x] wow that actually worked. okay, refine the css significantly
 - [x] ~~find out where the css actually goes~~ move it to xkit patches
 - [x] ~~possibly refactor everything from hacky css to construct_react changes? or maybe put it back to normal, haven't decided~~
-- [ ] wait, am I done now??
+- [ ] ~~wait, am I done now??~~ Move everything to XKit.interface.react.sidebar.
 
 Tag Tracking+
 
