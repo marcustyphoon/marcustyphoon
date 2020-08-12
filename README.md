@@ -31,17 +31,20 @@ No Recommended
 
 Show Originals
 
-- [x] ~~make the show originals beta use dropdowns in settings~~ nevermind probably; too hard to describe the options well
 - [x] ~~maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad~~ decided not to; probably too performance intensive
-- [ ] fix interaction between no-recommended and show-originals (and blacklist and etc etc)
-- [x] add back the sidebar button
-- [ ] add back the legacy code (possibly rebuilding the extension)
-- [ ] check functionality on non-react pages
-- [ ] check functionality on all page types
-- [ ] use xkit.interface.hide when it comes out
-- [ ] maybe look into radio buttons
-- [ ] maybe add excluded blogs
-- [ ] implement whatever changes no recommended gets from the PR review
+
+
+
+- [x] ~~Change appearance setting to a dropdown menu~~ nevermind probably; too hard to describe the options well
+- [x] Simplify HTML/CSS to make matching the no-recommended styling to this really easy
+- [x] Add back the sidebar toggle button
+- [ ] Fix interaction between no-recommended and show-originals (and blacklist and etc etc)
+- [ ] Add back the legacy code (possibly rebuilding the extension) / Check functionality on non-react pages
+- [ ] Check functionality on all page types
+- [ ] Use abstracted functions like XKit.interface.hide when it becomes available
+- [ ] Maybe look into radio buttons in the preferences?
+- [ ] Maybe add excluded blogs?
+- [ ] Implement whatever changes no recommended gets from the PR review
 
 Hide "where were we"
 
