@@ -3,10 +3,10 @@ Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a rea
 Everything with a sidebar
 
 - [x] just for fun, try my hand at updating XKit.interface.sidebar, ~~haha, this will go poorly~~
-- [ ] wow that actually worked. okay, refine the css significantly
+- [x] wow that actually worked. okay, refine the css significantly
 - [x] ~~find out where the css actually goes~~ move it to xkit patches
-- [ ] possibly refactor everything from hacky css to construct_react changes? or maybe put it back to normal, haven't decided
-- [ ] check if the hyperlinks, yknow, actually do anything
+- [x] ~~possibly refactor everything from hacky css to construct_react changes? or maybe put it back to normal, haven't decided~~
+- [ ] wait, am I done now??
 
 Tag Tracking+
 
