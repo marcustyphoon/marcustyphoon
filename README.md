@@ -43,7 +43,7 @@ No Recommended
 - [x] use css from show originals to fix peepr
 - [x] PR it
 - [x] update the hide-completely warning message
-- [ ] undraft the PR with xkit.interface.hide when it comes out
+- [x] undraft the PR with xkit.interface.hide when it comes out
 
 Show Originals
 
@@ -75,11 +75,11 @@ Other
 
 - [x] ask about tweaks settings cleanup, and settings for non-working-on-new-dash features in general
 - [x] ~~ask about and/or~~ publish cssmap tools *as a Gist*
-- [ ] potentially look at "shorten posts"
+- [x] ~~potentially look at "shorten posts"~~ yay becca is doing it thank god
 
 Not technically XKit
 
-- [ ] maybe try out a "hide posts" extension for xkit-rewritten
+- [ ] maybe try out a private "hide posts" extension for xkit-rewritten
 
 Not XKit related
 
