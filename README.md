@@ -10,7 +10,9 @@ Everything with a sidebar
 - [x] make the sidebar go in the right place relative to other sidebars
 - [x] determine if interface.react.sidebar works on non-react pages
 - [x] test on firefox
+- [ ] remove legacy fallback
 - [ ] decide on/ask about async vs manually doing header css
+
 
 Tag Tracking+
 
