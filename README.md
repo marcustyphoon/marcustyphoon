@@ -13,6 +13,11 @@ Everything with a sidebar
 - [ ] remove legacy fallback
 - [ ] decide on/ask about async vs manually doing header css
 
+Tag Replacer and Post Limit Checker
+
+- [ ] wait for 1903
+- [ ] make the update changes either with the sidebar pr or with their own
+
 Tag Tracking+
 
 - [x] make tag tracking+ svg not a background and color it
