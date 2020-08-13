@@ -55,9 +55,12 @@ Hide "where were we"
 - [ ] test my "hide where were we" code by making it transparent or something
 - [ ] publish my "hide where were we" code as a draft (??)
 
-Quick tags/
+Quick tags/postblock
 
-- figure out what the heck is going on
+- [x] fix quick tags not having a then()
+- [ ] figure out that mess with async each()
+- [ ] update html of XKit.react.\[control buttons\] to accept colored svgs
+- [ ] PR it all
 
 Other
 
