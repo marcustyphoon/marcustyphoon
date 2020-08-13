@@ -7,8 +7,9 @@ Everything with a sidebar
 - [x] ~~find out where the css actually goes~~ move it to xkit patches
 - [x] ~~possibly refactor everything from hacky css to construct_react changes? or maybe put it back to normal, haven't decided~~
 - [x] ~~wait, am I done now??~~ Move everything to XKit.interface.react.sidebar.
-- [ ] determine where the sidebar should go relative to other sidebars
-- [ ] determine if interface.react.sidebar work on non-react pages
+- [x] make the sidebar go in the right place relative to other sidebars
+- [x] determine if interface.react.sidebar works on non-react pages
+- [ ] test on firefox
 
 Tag Tracking+
 
@@ -56,6 +57,10 @@ Other
 - [x] ask about tweaks settings cleanup, and settings for non-working-on-new-dash features in general
 - [x] ~~ask about and/or~~ publish cssmap tools *as a Gist*
 - [ ] potentially look at "shorten posts"
+
+Not technically XKit
+
+- [ ] maybe try out a "hide posts" extension for xkit-rewritten
 
 Not XKit related
 
