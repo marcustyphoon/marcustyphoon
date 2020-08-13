@@ -13,7 +13,6 @@ Everything with a sidebar
 - [ ] remove legacy fallback
 - [ ] decide on/ask about async vs manually doing header css
 
-
 Tag Tracking+
 
 - [x] make tag tracking+ svg not a background and color it
@@ -55,6 +54,10 @@ Hide "where were we"
 
 - [ ] test my "hide where were we" code by making it transparent or something
 - [ ] publish my "hide where were we" code as a draft (??)
+
+Quick tags/
+
+- figure out what the heck is going on
 
 Other
 
