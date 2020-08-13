@@ -9,7 +9,8 @@ Everything with a sidebar
 - [x] ~~wait, am I done now??~~ Move everything to XKit.interface.react.sidebar.
 - [x] make the sidebar go in the right place relative to other sidebars
 - [x] determine if interface.react.sidebar works on non-react pages
-- [ ] test on firefox
+- [x] test on firefox
+- [ ] decide on/ask about async vs manually doing header css
 
 Tag Tracking+
 
@@ -18,7 +19,11 @@ Tag Tracking+
 Anti-Capitalism
 
 - [x] test anti-capitalism changes
-- [ ] undraft the PR with xkit.interface.hide when it comes out
+- [x] undraft the PR
+
+xkit.interface.hide when it comes out
+
+- [ ] update all the things
 
 No Recommended
 
@@ -27,21 +32,18 @@ No Recommended
 - [x] maybe make an a/b/c option for the devs of old/shrunk/"shrunk and it indicates who the post is from and has a 'show' button"
 - [x] use css from show originals to fix peepr
 - [x] PR it
-- [ ] update the hide-completely warning message
+- [x] update the hide-completely warning message
 - [ ] undraft the PR with xkit.interface.hide when it comes out
 
 Show Originals
 
 - [x] ~~maybe add "show all posts sourced from blogs I follow" to show-originals beta and get poked by all the devs with sticks because feature creep is bad~~ decided not to; probably too performance intensive
-
-
-
 - [x] ~~Change appearance setting to a dropdown menu~~ nevermind probably; too hard to describe the options well
 - [x] Simplify HTML/CSS to make matching the no-recommended styling to this really easy
 - [x] Add back the sidebar toggle button
 - [ ] Fix interaction between no-recommended and show-originals (and blacklist and etc etc)
 - [ ] Add back the legacy code (possibly rebuilding the extension) / Check functionality on non-react pages
-- [ ] Check functionality on all page types
+- [x] Check functionality on all page types
 - [ ] Use abstracted functions like XKit.interface.hide when it becomes available
 - [ ] Maybe look into radio buttons in the preferences?
 - [ ] Maybe add excluded blogs?
