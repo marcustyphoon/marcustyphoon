@@ -67,21 +67,18 @@ Hide "where were we"
 
 Quick tags/postblock
 
-- [x] fix quick tags not having a then()
-- [x] figure out that mess with async each()
-- [ ] wait for incompatibility fix
-- [ ] update html of XKit.react.\[control buttons\] to accept colored svgs
-- [ ] PR it all
+- [x] never mind, becca will do anything in this category
 
 Other
 
 - [x] ask about tweaks settings cleanup, and settings for non-working-on-new-dash features in general
 - [x] ~~ask about and/or~~ publish cssmap tools *as a Gist*
 - [x] ~~potentially look at "shorten posts"~~ yay becca is doing it thank god
+- [ ] always more prs to test and issues to try out fixes for
 
 Not technically XKit
 
-- [ ] maybe try out a private "hide posts" extension for xkit-rewritten
+- maybe try out a private "hide posts" extension for xkit-rewritten? (yeah, no)
 
 Not XKit related
 
