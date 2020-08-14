@@ -76,6 +76,11 @@ Other
 - [x] ~~potentially look at "shorten posts"~~ yay becca is doing it thank god
 - [ ] always more prs to test and issues to try out fixes for
 
+Things I could do if I was to do more things
+
+- multipart tweaks fixes pr (excuse to use git add --patch)
+- backport timestamps mini ui, mostly because it'd be amusing
+
 Not technically XKit
 
 - maybe try out a private "hide posts" extension for xkit-rewritten? (yeah, no)
