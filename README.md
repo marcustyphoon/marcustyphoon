@@ -10,12 +10,13 @@ Everything with a sidebar
 - [x] make the sidebar go in the right place relative to other sidebars
 - [x] determine if interface.react.sidebar works on non-react pages
 - [x] test on firefox
-- [ ] remove legacy fallback
+- [x] remove legacy fallback
+- [ ] wait for a clean patches.js
 - [ ] decide on/ask about async vs manually doing header css
 
 Tag Replacer and Post Limit Checker
 
-- [ ] wait for 1903
+- [ ] wait for 1903 and sidebar
 - [ ] make the update changes either with the sidebar pr or with their own
 
 Enhanced Queue
@@ -33,7 +34,7 @@ Anti-Capitalism
 
 xkit.interface.hide when it comes out
 
-- [ ] update all the things
+- [x] update all the things
 
 No Recommended
 
@@ -58,16 +59,17 @@ Show Originals
 - [ ] Maybe look into radio buttons in the preferences?
 - [ ] Maybe add excluded blogs?
 - [ ] Implement whatever changes no recommended gets from the PR review
+- [ ] use xkit.interface.hide
 
 Hide "where were we"
 
-- [ ] test my "hide where were we" code by making it transparent or something
-- [ ] publish my "hide where were we" code as a draft (??)
+- [x] publish my "hide where were we" code as a ~~draft (??)~~ isk whatever
 
 Quick tags/postblock
 
 - [x] fix quick tags not having a then()
-- [ ] figure out that mess with async each()
+- [x] figure out that mess with async each()
+- [ ] wait for incompatibility fix
 - [ ] update html of XKit.react.\[control buttons\] to accept colored svgs
 - [ ] PR it all
 
