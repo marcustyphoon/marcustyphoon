@@ -6,7 +6,7 @@ no recommended and show originals
 
 blacklist
 
-- [ ] fix asks
+- [x] fix asks
 
 Everything with a sidebar
 
@@ -19,17 +19,21 @@ Everything with a sidebar
 - [x] determine if interface.react.sidebar works on non-react pages
 - [x] test on firefox
 - [x] remove legacy fallback
+- [ ] add tag tracking+ to sidebar div
 - [ ] wait for a clean patches.js
 - [ ] decide on/ask about async vs manually doing header css
 
 Tag Replacer and Post Limit Checker
 
+- [x] basic functionality
 - [ ] wait for 1903 and sidebar
 - [ ] make the update changes either with the sidebar pr or with their own
 
 Enhanced Queue
 
-- [ ] probably the same as the previous category
+- [x] shuffle queue button, show options button
+- [ ] clear queue button
+- shrink button? ehhh
 
 Blog Tracker / People Notifier
 
