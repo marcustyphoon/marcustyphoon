@@ -4,6 +4,10 @@ no recommended and show originals
 
 - [ ] test the performance of using advanced css to avoid using post_props at all
 
+blacklist
+
+- [ ] fix asks
+
 Everything with a sidebar
 
 - [x] just for fun, try my hand at updating XKit.interface.sidebar, ~~haha, this will go poorly~~
