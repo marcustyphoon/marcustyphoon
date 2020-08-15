@@ -27,6 +27,10 @@ Enhanced Queue
 
 - [ ] probably the same as the previous category
 
+Blog Tracker / People Notifier
+
+- [ ] ?
+
 Tag Tracking+
 
 - [x] make tag tracking+ svg not a background and color it
