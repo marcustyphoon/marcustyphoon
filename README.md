@@ -1,5 +1,9 @@
 Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a reasonable place to put it.
 
+everything
+
+- [ ] consider using links in preferences dividers like OCP does
+
 no recommended and show originals
 
 - [ ] test the performance of using advanced css to avoid using post_props at all
