@@ -76,6 +76,7 @@ Show Originals
 - [ ] Maybe add excluded blogs?
 - [ ] Implement whatever changes no recommended gets from the PR review
 - [ ] use xkit.interface.hide
+- [ ] add a separate "always hide" setting for the sidebar? (or just stop breaking on clicked posts idk how)
 
 Hide "where were we"
 
