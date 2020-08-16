@@ -22,6 +22,7 @@ Everything with a sidebar
 - [ ] add tag tracking+ to sidebar div
 - [ ] wait for a clean patches.js
 - [ ] decide on/ask about async vs manually doing header css
+- [ ] add sticky sidebar... maybe
 
 Tag Replacer and Post Limit Checker
 
