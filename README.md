@@ -23,10 +23,12 @@ Everything with a sidebar
 - [x] determine if interface.react.sidebar works on non-react pages
 - [x] test on firefox
 - [x] remove legacy fallback
+- [ ] add sticky sidebar... maybe
+- [ ] figure out the race condition bug
 - [ ] add tag tracking+ to sidebar div
 - [ ] wait for a clean patches.js
 - [ ] decide on/ask about async vs manually doing header css
-- [ ] add sticky sidebar... maybe
+
 
 Tag Replacer and Post Limit Checker
 
@@ -37,8 +39,8 @@ Tag Replacer and Post Limit Checker
 Enhanced Queue
 
 - [x] shuffle queue button, show options button
-- [ ] clear queue button
-- shrink button? ehhh
+- [x] clear queue button
+- [ ] shrink button? yeah this one is a huge mess
 
 Blog Tracker / People Notifier
 
