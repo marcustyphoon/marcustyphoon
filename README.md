@@ -80,7 +80,7 @@ Show Originals
 - [ ] Maybe look into radio buttons in the preferences?
 - [ ] Maybe add excluded blogs?
 - [ ] Implement whatever changes no recommended gets from the PR review
-- [ ] add a separate "always hide" setting for the sidebar? (or just stop breaking on clicked posts idk how)
+- [x] ~~add a separate "always hide" setting for the sidebar? (or~~ just stop breaking on clicked posts ~~idk how)~~
 
 Hide "where were we"
 
