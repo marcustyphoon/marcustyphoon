@@ -23,10 +23,10 @@ Everything with a sidebar
 - [x] determine if interface.react.sidebar works on non-react pages
 - [x] test on firefox
 - [x] remove legacy fallback
-- [ ] add sticky sidebar... maybe
-- [ ] figure out the race condition bug
+- [x] add sticky sidebar... maybe
+- [x] figure out the race condition bug
 - [ ] add tag tracking+ to sidebar div
-- [ ] wait for a clean patches.js
+- [x] wait for a clean patches.js
 - [ ] decide on/ask about async vs manually doing header css
 
 
