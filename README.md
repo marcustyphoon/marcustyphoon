@@ -25,22 +25,16 @@ Everything with a sidebar
 - [x] remove legacy fallback
 - [x] add sticky sidebar... maybe
 - [x] figure out the race condition bug
-- [ ] add tag tracking+ to sidebar div
 - [x] wait for a clean patches.js
-- [ ] decide on/ask about async vs manually doing header css
+- [x] ~~add tag tracking+ to sidebar div~~
+- [x] ~~decide on/ask about async vs manually doing header css~~
 
 
-Tag Replacer and Post Limit Checker
+Tag Replacer, Post Limit Checker, and Enhanced Queue
 
 - [x] basic functionality
+- [x] less basic functionality
 - [ ] wait for 1903 and sidebar
-- [ ] make the update changes either with the sidebar pr or with their own
-
-Enhanced Queue
-
-- [x] shuffle queue button, show options button
-- [x] clear queue button
-- [ ] shrink button? yeah this one is a huge mess
 
 Blog Tracker / People Notifier
 
