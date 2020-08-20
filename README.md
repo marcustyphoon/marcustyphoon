@@ -72,11 +72,10 @@ Show Originals
 - [x] Check sidebar functionality on all page types
 - [x] Use abstracted functions like XKit.interface.hide when it becomes available
 - [x] Maybe add excluded blogs?
-- [ ] Fix interaction between no-recommended and show-originals (and blacklist and etc etc)
-- [ ] Add back the legacy code (possibly rebuilding the extension) / Check functionality on non-react pages
-- [ ] Implement whatever changes no recommended gets from the PR review
-- [ ] Maybe look into radio buttons in the preferences?
+- [x] Add back the legacy code (possibly rebuilding the extension) / Check functionality on non-react pages
 - [x] ~~add a separate "always hide" setting for the sidebar? (or~~ just stop breaking on clicked posts ~~idk how)~~
+- [ ] Fix interaction between no-recommended and show-originals (and blacklist and etc etc)
+- [ ] Implement whatever changes no recommended gets from the PR review
 
 Hide "where were we"
 
