@@ -57,6 +57,11 @@ Not XKit related
 
 -------
 
+done:
+
+<details>
+  <summary>
+
 Tag Tracking+
 
 - [x] make tag tracking+ svg not a background and color it
@@ -108,3 +113,5 @@ Anti-Capitalism
 Quick tags/postblock
 
 - [x] never mind, becca is doing it
+
+</details>
