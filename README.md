@@ -38,7 +38,7 @@ Tag Replacer, Post Limit Checker, and Enhanced Queue
 
 Blog Tracker / People Notifier
 
-- [ ] ?
+- [x] becca is doing it
 
 Tag Tracking+
 
