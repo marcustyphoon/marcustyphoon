@@ -2,6 +2,8 @@ Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a rea
 
 Future project ideas:
 
+- [ ] keep doing fun extensions (tf2, pokes)
+- [ ] make the xkit extension search include the options pane?
 - [ ] OCP Quick Queue Button ...maybe?
 - [ ] Search Likes, but like, ugh
 - [ ] Control button color fix if Becca is done with that code
@@ -27,6 +29,7 @@ Show Originals
 - [x] Maybe add excluded blogs?
 - [x] Add back the legacy code (possibly rebuilding the extension) / Check functionality on non-react pages
 - [x] ~~add a separate "always hide" setting for the sidebar? (or~~ just stop breaking on clicked posts ~~idk how)~~
+- [ ] fix scrolling with the toggle
 - [ ] Implement whatever changes no recommended gets from the PR review
 - [ ] Fix interaction between no-recommended and show-originals (and blacklist and etc etc)
 
