@@ -1,5 +1,11 @@
 Hi! I'm Marcus. This is my to-do list, mostly for New XKit. It seemed like a reasonable place to put it.
 
+Note: this isn't even close to up to date anymore, and thus my real to-do list is:
+- do the things
+- update my to-do list
+
+---
+
 Future project ideas:
 
 - [ ] keep doing fun extensions (tf2, pokes)
