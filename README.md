@@ -6,6 +6,9 @@ Note: this isn't even close to up to date anymore, and thus my real to-do list i
 
 ---
 
+<details>
+  <summary>To Do:</summary>
+
 Future project ideas:
 
 - [ ] keep doing fun extensions (tf2, pokes)
@@ -68,8 +71,7 @@ Not XKit related
 
 -------
 
-<details>
-  <summary>Done:</summary>
+Done:
 
 Tag Tracking+
 
